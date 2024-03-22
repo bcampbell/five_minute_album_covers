@@ -38,6 +38,7 @@ Add a pic of your own! Here are the rules:
 ![stevie_wonder-innervisions.png](covers/stevie_wonder-innervisions.png "stevie_wonder-innervisions.png")
 ![the_velvet_underground_and_nico.png](covers/the_velvet_underground_and_nico.png "the_velvet_underground_and_nico.png")
 ![u2-the_joshua_tree.png](covers/u2-the_joshua_tree.png "u2-the_joshua_tree.png")
+![verlaines-birddog.png](covers/verlaines-birddog.png "verlaines-birddog.png")
 ![white_stripes-white_blood_cells.png](covers/white_stripes-white_blood_cells.png "white_stripes-white_blood_cells.png")
 
 [^1]: Both of us.
