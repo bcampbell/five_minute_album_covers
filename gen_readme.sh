@@ -29,9 +29,9 @@ Add a pic of your own! Here are the rules:
 _EOF_
 
 # the images
-for img in *.png
+for img in covers/*.png
 do
- alt=$img
+ alt=`basename $img`
  echo "![${alt}](${img} \"${alt}\")"
 done
 
